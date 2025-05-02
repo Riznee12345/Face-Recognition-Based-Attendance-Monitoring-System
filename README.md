@@ -8,6 +8,7 @@ A Python-based face recognition system for automated attendance marking. It uses
 
 
 ![ChatGPT Image May 2, 2025, 09_37_48 PM](https://github.com/user-attachments/assets/0e33dfa7-aaaf-45c8-9732-b65ef98d10c1)
+![Screenshot 2025-05-02 221041](https://github.com/user-attachments/assets/1f172e47-b898-452e-b8de-7f2d44e6a52f)
 
 
 
