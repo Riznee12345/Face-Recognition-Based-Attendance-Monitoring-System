@@ -36,7 +36,7 @@ The **Face Recognition Based Attendance Monitoring System** leverages the power 
 ## 💡 How It Works
 - Register Student: Capture face images using a webcam and assign an ID/name.
 - Train Model: Process the captured images to train a face recognition model.
-- Recognize Faces: The system detects and recognizes faces in real-time.
+- Recognize Faces: The system detects and recognizes faces in real time.
 - Mark Attendance: If recognized, attendance is marked in a CSV file with time and date.
 
 ---
