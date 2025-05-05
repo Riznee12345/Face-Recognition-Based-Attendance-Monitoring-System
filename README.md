@@ -17,7 +17,7 @@ A Python-based face recognition system for automated attendance marking. It uses
 
 ## 🚀 Overview
 
-The **Face Recognition Based Attendance Monitoring System** leverages the power of computer vision and machine learning to identify individuals in real-time and mark attendance automatically. This system eliminates the manual process of attendance-taking, enhances security, and ensures reliability by reducing proxy attendance.
+The Face Recognition Based Attendance Monitoring System leverages the power of computer vision and machine learning to identify individuals in real time and mark attendance automatically. This system eliminates the manual process of attendance-taking, enhances security, and ensures reliability by reducing proxy attendance.
 
 ---
 
