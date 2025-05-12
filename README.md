@@ -11,7 +11,6 @@ A Python-based face recognition system for automated attendance marking. It uses
 ![Screenshot 2025-05-02 221041](https://github.com/user-attachments/assets/1f172e47-b898-452e-b8de-7f2d44e6a52f)
 
 
-
 ---
 
 ## 🚀 Overview
